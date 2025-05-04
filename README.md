@@ -6,7 +6,7 @@
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 DevOps Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
@@ -14,21 +14,33 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
 </p>
 
 ---
 
+### 🧠 Programming Languages I Use
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />
+</p>
+
+---
+
 ### 💡 About Me
 
-- 🔧 I specialize in **CI/CD pipelines**, cloud platforms, and Infrastructure as Code.
-- ☁️ Experienced with **AWS, Azure, GCP**.
-- 🔐 Passionate about DevSecOps, security, and automation.
-- 👨‍🏫 Taught coding and supported IT infrastructure at **Badr University**.
-- 📡 Solid background in **Networking** (CCNA, CCNP).
-- 🧠 Lifelong learner with a passion for system design and DevOps tools.
+- 🔧 Specializing in **CI/CD pipelines**, automation, and cloud-native DevOps.
+- ☁️ Working with **AWS, Azure, and GCP** cloud platforms.
+- ⚙️ Automating infrastructure using **Terraform, Ansible, CloudFormation**.
+- 🧠 Background in system administration and IT support for 600+ users.
+- 🧑‍🏫 Coding Instructor @ Ischool — Ministry of Communications, Egypt.
+- 🧪 Experienced in **Linux**, **networking (CCNA, CCNP)**, and security best practices.
 
 ---
 
@@ -41,7 +53,7 @@
 
 ---
 
-### 📫 Connect with Me
+### 📫 Let's Connect
 
 <p align="center">
   <a href="mailto:abdulrahman.mohamed.sh@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail" /></a>
