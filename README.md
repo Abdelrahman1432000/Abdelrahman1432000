@@ -1,7 +1,6 @@
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> I'm Abdelrahman Mohamed
 </h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=534AB7&center=true&vCenter=true&width=600&lines=DevOps+Engineer;CI%2FCD+%7C+Cloud+%7C+Infrastructure;AWS+%7C+Azure+%7C+GCP;Terraform+%7C+Ansible+%7C+Kubernetes" alt="Typing SVG" />
 </p>
@@ -9,7 +8,6 @@
 ---
 
 ### 🧰 DevOps Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,jenkins,terraform,git,linux&perline=7" />
 </p>
@@ -17,7 +15,6 @@
 ---
 
 ### 🧠 Programming Languages
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,cs,cpp,php&perline=6" />
 </p>
@@ -25,7 +22,6 @@
 ---
 
 ### 💡 About Me
-
 - 🚀 DevOps Engineer with hands-on experience in **Kubernetes, Helm, CI/CD, and Infrastructure as Code**.
 - ☁️ Working with **AWS (EC2, S3, VPC, Route53, RDS)** and Azure cloud platforms.
 - ⚙️ Automating infrastructure using **Terraform, Ansible, and AWS CloudFormation**.
@@ -34,15 +30,14 @@
 - 🛡️ Practicing **DevSecOps** — IAM roles, policies, and container security.
 - 🎓 Pre-Master student in IT @ **Sohag University**.
 - 🌐 Experienced in **Linux, networking (CCNA, CCNP)**, and system reliability.
+
 ---
 
 ### 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman1432000&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman1432000&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelrahman1432000&theme=tokyonight&hide_border=true" height="165"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman1432000&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
@@ -50,7 +45,6 @@
 ---
 
 ### 📫 Let's Connect
-
 <p align="center">
   <a href="mailto:abdulrahman.mohamed.sh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
