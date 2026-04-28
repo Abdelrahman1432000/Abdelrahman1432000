@@ -8,7 +8,7 @@
 
 ### 🧰 DevOps Tech Stack
 
-<p style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<p style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 15px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" />
