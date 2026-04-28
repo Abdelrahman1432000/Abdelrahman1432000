@@ -26,13 +26,14 @@
 
 ### 💡 About Me
 
-- 🔧 Specializing in **CI/CD pipelines**, automation, and cloud-native DevOps.
-- ☁️ Working with **AWS, Azure, and GCP** cloud platforms.
-- ⚙️ Automating infrastructure using **Terraform, Ansible, CloudFormation**.
-- 🧠 Background in system administration and IT support for **600+ users**.
-- 🧑‍🏫 Coding Instructor @ **Ischool** — Ministry of Communications, Egypt.
-- 🧪 Experienced in **Linux**, **networking (CCNA, CCNP)**, and security best practices.
-
+- 🚀 DevOps Engineer with hands-on experience in **Kubernetes, Helm, CI/CD, and Infrastructure as Code**.
+- ☁️ Working with **AWS (EC2, S3, VPC, Route53, RDS)** and Azure cloud platforms.
+- ⚙️ Automating infrastructure using **Terraform, Ansible, and AWS CloudFormation**.
+- 🔄 Applying **GitOps methodology** with ArgoCD for Kubernetes deployments.
+- 📊 Implementing monitoring & logging with **Prometheus, Grafana, and ELK Stack**.
+- 🛡️ Practicing **DevSecOps** — IAM roles, policies, and container security.
+- 🎓 Pre-Master student in IT @ **Sohag University**.
+- 🌐 Experienced in **Linux, networking (CCNA, CCNP)**, and system reliability.
 ---
 
 ### 📈 GitHub Stats
